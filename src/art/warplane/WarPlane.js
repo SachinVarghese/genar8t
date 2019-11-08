@@ -25,7 +25,7 @@ class WarPlane extends React.Component {
       ctx.fillStyle = "rgba(206,160,40,"+o+")";
       ctx.fill();
     }
-    window.requestAnimationFrame(this.animate)
+    // window.requestAnimationFrame(this.animate)
 
   }
 
